@@ -1,0 +1,31 @@
+@import 'vars';
+
+header.major h2 {
+
+  color: $red;
+}
+
+.feature .image {
+
+  div {
+    width: 100%;
+    height: 100%;
+  }
+  .dr-tenderlove {
+    background: url('/images/villains/dr_tenderlove.jpg') no-repeat center center;
+    background-size: contain;
+  }
+  .hatter {
+    background: url('/images/villains/the_hatter.png') no-repeat center center;
+    background-size: contain;
+  }
+  .boo {
+    background: url('/images/villains/boo.png') no-repeat center center;
+    background-size: contain;
+  }
+  .jonan-the-barbarian {
+    background: url('/images/villains/jonan_the_barbarian.jpg') no-repeat center center;
+    background-size: contain;
+  }
+
+}

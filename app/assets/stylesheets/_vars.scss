@@ -1,0 +1,28 @@
+$red: #BA4837;
+
+$lt-gray: #ccc;
+$gray: #888;
+$gray2: #5b5b5b;
+$gray3: #6e6e6e;
+
+$color-bg:                  white;
+$color-fg:                  $gray3;
+$color-fg-light:            $gray; 
+$color-fg-bold:             $gray2;
+
+$color-accent-bg:           $red;
+$color-accent-fg:           rgba(255,255,255,0.8);
+$color-accent-fg-light:     rgba(255,255,255,0.5);
+$color-accent-fg-bold:      white;
+
+$color-accent2-bg:          #544d55;
+$color-accent2-fg:          rgba(255,255,255,0.8);
+$color-accent2-fg-light:    rgba(255,255,255,0.35);
+$color-accent2-fg-bold:     white;
+
+$color-border-ie:           $lt-gray;
+$color-border:              rgba(210,210,210,0.75);
+$color-border-bg:           rgba(210,210,210,0.15);
+$color-border-bg2:          rgba(210,210,210,0.35);
+
+$size-radius: 4px;

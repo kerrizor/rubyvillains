@@ -1,0 +1,11 @@
+@import 'vars';
+@import 'mixins';
+
+@media (max-width: 980px) {
+
+  /* Basic */
+
+  body, input, select, textarea {
+    font-size: 12pt;
+  }
+}

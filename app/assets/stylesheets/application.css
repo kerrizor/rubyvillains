@@ -10,6 +10,14 @@
  * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
  * file per style scope.
  *
+ *= require font-awesome
+ *= require style
+ *= require style-wide
+ *= require style-normal
+ *= require style-narrow
+ *= require style-narrower
+ *= require style-mobile
+ *= require style-mobilep
  *= require_tree .
  *= require_self
  */

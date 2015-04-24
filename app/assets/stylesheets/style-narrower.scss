@@ -1,0 +1,21 @@
+@import 'vars';
+@import 'mixins';
+
+@media (max-width: 840px) {
+
+  /* Section/Article */
+
+  header {
+    &.major {
+      padding-left: 2em;
+      padding-right: 2em;
+    }
+  }
+
+  footer {
+    &.major {
+      padding-left: 2em;
+      padding-right: 2em;
+    }
+  }
+}
