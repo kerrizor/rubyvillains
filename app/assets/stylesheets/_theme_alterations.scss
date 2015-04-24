@@ -4,3 +4,15 @@ header.major h2 {
 
   color: $red;
 }
+
+.feature .image {
+
+  div {
+    width: 100%;
+    height: 100%;
+  }
+  .dr-tenderlove {
+    background: url('/images/dr_tenderlove.jpg') no-repeat center center;
+    background-size: contain;
+  }
+}
