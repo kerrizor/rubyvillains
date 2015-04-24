@@ -12,11 +12,15 @@ header.major h2 {
     height: 100%;
   }
   .dr-tenderlove {
-    background: url('/images/dr_tenderlove.jpg') no-repeat center center;
+    background: url('/images/villains/dr_tenderlove.jpg') no-repeat center center;
     background-size: contain;
   }
   .hatter {
-    background: url('/images/the_hatter.png') no-repeat center center;
+    background: url('/images/villains/the_hatter.png') no-repeat center center;
+    background-size: contain;
+  }
+  .boo {
+    background: url('/images/villains/boo.png') no-repeat center center;
     background-size: contain;
   }
 }
