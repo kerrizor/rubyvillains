@@ -31,3 +31,5 @@ Please feel free to use a different markup language if you do not plan to run
 # Theme
 
 Theme gathered from http://html5up.net/directive
+
+Golden Gate Bridge photo courtesy of Unsplash: https://download.unsplash.com/photo-1428342319217-5fdaf6d7898e
