@@ -721,6 +721,11 @@ input[type="button"],
     text-align: center;
     width: 2.35em;
 
+    &.fa-diamond {
+      transition-property: transform, -ms-transform, -webkit-transform;
+      transition-duration: 2s;
+    }
+
     &.fa-paper-plane-o:before {
       left: -0.075em;
       position: relative;
