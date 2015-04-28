@@ -16,36 +16,11 @@
   </header>
 
   <div class="box alt container">
-    <section id="the-hidden-samurai" class="feature left">
-      <a href="http://www.rubyist.net/~matz/" class="image icon"><div class="the-hidden-samurai"></div></a>
+    <%= render partial: 'villains/villain', collection: @villains[0..3] %>
+
+    <section class="feature left">
       <div class="content">
-        <h3>The Hidden "Matz" Samurai</h3>
-        <p>
-          The dark samurai, Lord Matz, is always loyal to the Ruby he forged with his own hands. He is extremely powerful, as smiling as powerful, followed and admired by the entire community. He is originally from the mystical Japan, travelling every place the Ruby has conquered; some even say he treats code as an essay!
-        </p>
-      </div>
-    </section>
-    <section id="the-whydler" class="feature right">
-      <a href="http://mislav.uniqpath.com/poignant-guide/" class="image icon"><div class="the-whydler"></div></a>
-      <div class="content">
-        <h3>The Whydler</h3>
-        <p>
-          Questions, questions, always asking questions! The Whydler's Poignant Guide is a common gateway into the world that is the Ruby Underworld, which makes the Whydler our faceless, nameless gatekeeper. All hail the chunky bacon!
-        </p>
-      </div>
-    </section>
-    <section id="dr-tenderlove" class="feature left">
-      <a href="https://twitter.com/tenderlove" class="image icon"><div class="dr-tenderlove"></div></a>
-      <div class="content">
-        <h3>Dr. Tenderlove</h3>
-        <p>
-        Rumored to be a top technical secret agent for an unknown government bent on global destruction, Dr. Tenderlove serves as a top advisor for multiple Ruby projects. His secret goal is to sereptitiously <a href="http://tenderlovemaking.com/">improve the performance of code</a> across a wide range of areas, all while covering his tracks by distracting us with cat pictures and funny puns.
-        </p>
-      </div>
-    </section>
-    <section class="feature right">
-      <div class="content">
-        <h3><a href="/villains">More Villains</a></h3>
+        <h3><%= link_to "More Villains", villains_path %></h3>
       </div>
     </section>
   </div>

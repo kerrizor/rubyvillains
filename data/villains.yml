@@ -1,0 +1,53 @@
+---
+- id: 'the-hidden-samurai'
+  link: "http://www.rubyist.net/~matz/"
+  title: 'The Hidden "Matz" Samurai'
+  description: "The dark samurai, Lord Matz, is always loyal to the Ruby he forged with his own hands. He is extremely powerful, as smiling as powerful, followed and admired by the entire community. He is originally from the mystical Japan, travelling every place the Ruby has conquered; some even say he treats code as an essay!"
+- id: 'the-whydler'
+  link: "http://mislav.uniqpath.com/poignant-guide/"
+  title: 'The Whydler'
+  description: "Questions, questions, always asking questions! The Whydler's Poignant Guide is a common gateway into the world that is the Ruby Underworld, which makes the Whydler our faceless, nameless gatekeeper. All hail the chunky bacon!"
+- id: 'dr-tenderlove'
+  link: "https://twitter.com/tenderlove"
+  title: 'Dr. Tenderlove'
+  description: 'Rumored to be a top technical secret agent for an unknown government bent on global destruction, Dr. Tenderlove serves as a top advisor for multiple Ruby projects. His secret goal is to sereptitiously <a href="http://tenderlovemaking.com/">improve the performance of code</a> across a wide range of areas, all while covering his tracks by distracting us with cat pictures and funny puns.'
+- id: 'the-hatter'
+  link: "https://twitter.com/hone02"
+  title: 'The Hatter'
+  description: 'The Hatter can easily be identified by the appearance of his unique blue hat. Beware - he will almost certainly try to collect groups of friends to enjoy <a href="https://twitter.com/hashtag/rubykaraoke?src=hash">Ruby Karaoke</a>.'
+- id: 'booboo'
+  link: "https://twitter.com/itsboodog"
+  title: "BooBoo"
+  description: "BooBoo spends most of his day attempting to sneak up on innocent Italian plumbers, and generally causing trouble. Any code that BooBoo writes is suspect. In fact, I'm not sure BooBoo can even type properly on a keyboard."
+- id: 'jonan-the-barbarian'
+  link: "https://twitter.com/1337807"
+  title: 'Jonan the Barbarian'
+  description: "Noted liar Jonan the Barbarian, Conan's evil brother, can easily be distinguished by his loud laugh and penchant for playing Magic the Gathering. In fact, he might turn your code into a program that plays Magic the Gathering. Or crush your soul with cute robots that learn how to love."
+- id: 'the-prophet'
+  link: "https://twitter.com/sandimetz"
+  title: 'The Prophet'
+  description: 'Her influence is undeniable. <a href="http://www.sandimetz.com/">Her rules are law.</a> No one escapes the declarations of The Prophet.'
+- id: 'sailor-mercury-soldier'
+  link: "https://twitter.com/sailorhg"
+  title: 'Sailor Mercury Soldier'
+  description: 'As part of the supernatural Sailor Soldiers, Sailor Mercury uses her intelligence and adorable outfits to outwit and outfight those standing in her way. Her only goal -- infuse computers with the cuteness they deserve and <a href="https://www.kickstarter.com/projects/sailorhg/bubblesort-computer-science-zines">switch all sorting algorithms to Bubble Sort</a>.'
+- id: 'lord-zen-spyder'
+  link: "https://twitter.com/the_zenspider"
+  title: 'Lord Zen Spyder'
+  description: 'Lord Zen Spyder hates your code. Yes. Yours.'
+- id: 'zzap-and-ginger'
+  link: "https://twitter.com/_zzak" 
+  title: 'Zzap and Gingypurrs'
+  description: 'Zzap is a criminal mastermind that controls the power of electricity with his hair. His henchcat <a href="https://twitter.com/gingypurrs">Ginger</a> augments this gingery super power. Together they are unstoppable.'
+- id: 'grimm-teacher'
+  link: "https://twitter.com/avdi"
+  title: 'Grimm Teacher'
+  description: 'Devoting his life to <a href="http://www.rubytapas.com/">instructing others on the way of the Ruby</a>, the Grimm Teacher provides us with the mystical incantations required to develop truly magnificient sorcery.'
+- id: 'jeggernaut'
+  link: "https://twitter.com/jeg2"
+  title: 'The Jeggernaut'
+  description: 'The Jeggernaut is a Ruby Villain powerhouse -- able to destroy any programming problem with ease. His <a href="http://graysoftinc.com/">neverending Ruby knowledge</a> allows for the computational strength to shatter mountains and literally move the earth under our feet.'
+- id: 'purr-programmer'
+  link: "https://twitter.com/PurrProgramming" 
+  title: 'The Purr Programmer'
+  description: 'By day The Purr Programmer charms their human pair with head bonks,  kisses and affectionate behavior.  At night they write Ruby for Random Hacks Of World Domination  (RHOWD).  Deeply dedicated to the cause you will find them shipping tuna to sympathizers,  slaying capybara’s and plotting new ways to overthrow canine coders.'
