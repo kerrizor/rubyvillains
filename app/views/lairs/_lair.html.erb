@@ -1,0 +1,12 @@
+<section id="<%= lair.id %>" class="feature <%= cycle("left", "right", name: "lair_direction") %>">
+  <a href="<%= lair.link %>" class="image icon"><div class="<%= lair.id %>"></div></a>
+  <div class="content">
+    <h3><%= link_to lair.title, lair.link %></h3>
+    <p>
+      <%= lair.description.html_safe %>
+    </p>
+    <p>
+      <%= lair.image_attribution.html_safe %>
+    </p>
+  </div>
+</section>
