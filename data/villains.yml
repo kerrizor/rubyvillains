@@ -7,6 +7,10 @@
   link: "http://mislav.uniqpath.com/poignant-guide/"
   title: 'The Whydler'
   description: "Questions, questions, always asking questions! The Whydler's Poignant Guide is a common gateway into the world that is the Ruby Underworld, which makes the Whydler our faceless, nameless gatekeeper. All hail the chunky bacon!"
+- id: 'dhhtddbbq'
+  link: "https://twitter.com/dhh"
+  title: 'DHH TDD BBQ'
+  description: 'TDD is dead. Javascript is dead. Abandon all hope.  All your Basecamp are belong to us.'
 - id: 'dr-tenderlove'
   link: "https://twitter.com/tenderlove"
   title: 'Dr. Tenderlove'
