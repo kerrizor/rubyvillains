@@ -1,0 +1,9 @@
+<section id="<%= villain.id %>" class="feature <%= cycle("left", "right", name: "villain_direction") %>">
+  <a href="<%= villain.link %>" class="image icon"><div class="<%= villain.id %>"></div></a>
+  <div class="content">
+    <h3><%= villain.title %></h3>
+    <p>
+      <%= villain.description.html_safe %>
+    </p>
+  </div>
+</section>

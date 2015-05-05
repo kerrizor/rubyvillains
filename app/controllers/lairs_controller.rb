@@ -1,0 +1,2 @@
+class LairsController < ApplicationController
+end

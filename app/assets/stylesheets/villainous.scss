@@ -11,31 +11,37 @@ header.major h2 {
     width: 100%;
     height: 100%;
   }
-  .the-hidden-samurai{
+
+  /* VILLAINS */
+  .the-hidden-samurai {
     background: url('/images/villains/Matz_the_hidden_samurai.jpg') no-repeat center center;
     background-size: contain;
   }
-  .the-whydler{
+  .the-whydler {
     background: url('/images/villains/why.png') no-repeat center center;
+    background-size: contain;
+  }
+  .dhhtddbbq {
+    background: url('/images/villains/dhhtddbbq.jpg') no-repeat center center;
     background-size: contain;
   }
   .dr-tenderlove {
     background: url('/images/villains/dr_tenderlove.jpg') no-repeat center center;
     background-size: contain;
   }
-  .hatter {
+  .the-hatter {
     background: url('/images/villains/the_hatter.png') no-repeat center center;
     background-size: contain;
   }
-  .boo {
+  .booboo {
     background: url('/images/villains/boo.png') no-repeat center center;
     background-size: contain;
   }
-  .the-prophet{
+  .the-prophet {
     background: url('/images/villains/the_prophet.jpg') no-repeat center center;
     background-size: contain;
   }
-  .sailor-hg {
+  .sailor-mercury-soldier {
     background: url('/images/villains/sailorhg.jpg') no-repeat center center;
     background-size: contain;
   }
@@ -47,11 +53,11 @@ header.major h2 {
     background: url('/images/villains/lord_zen_spyder.jpg') no-repeat center center;
     background-size: contain;
   }
-  .zzap-and-ginger{
+  .zzap-and-ginger {
     background: url('/images/villains/zzap.jpg') no-repeat center center;
     background-size: contain;
   }
-  .grimm-teacher{
+  .grimm-teacher {
     background: url('/images/villains/grimm_teacher.jpg') no-repeat center center;
     background-size: contain;
   }
@@ -61,6 +67,17 @@ header.major h2 {
   }
   .purr-programmer {
     background: url('/images/villains/purr_programmer.jpg') no-repeat center center;
+    background-size: contain;
+  }
+
+  /* LAIRS */
+
+  .nil-roulette {
+    background: url('/images/lairs/roulette.jpg') no-repeat center center;
+    background-size: contain;
+  }
+  .ben-string {
+    background: url('/images/lairs/knot.jpg') no-repeat center center;
     background-size: contain;
   }
 

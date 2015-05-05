@@ -1,0 +1,16 @@
+<%= render partial: 'shared/header' %>
+
+<!-- Main -->
+<div id="main">
+
+  <header id="lairs" class="major container 75%">
+    <h2>Evil Lairs</h2>
+  </header>
+
+  <div class="box alt container">
+    <%= render partial: 'lair', collection: @lairs %>
+  </div>
+
+</div>
+
+<%= render partial: 'shared/footer' %>
